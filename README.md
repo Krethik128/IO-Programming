@@ -1,4 +1,4 @@
-# Java I/O Programming Suite
+# Java I/O Programming 
 
 This repository demonstrates various aspects of Input/Output programming.
 
