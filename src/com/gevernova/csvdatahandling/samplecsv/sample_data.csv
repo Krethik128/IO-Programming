@@ -1,0 +1,11 @@
+ID,Name,Age,Marks,Email,Phone,Department,Salary
+S001,Alice Smith,22,85,alice.smith@example.com,9876543210,IT,75000
+S002,Bob Johnson,24,78,bob.johnson@example.com,9123456789,Finance,62000
+S003,Charlie Brown,23,92,charlie.brown@example.com,9988776655,IT,82000
+S004,Diana Prince,21,88,diana.prince@example.com,987654321,Marketing,68000
+S005,Eve Adams,25,95,eve.adams@example,9876543210,IT,90000
+S006,Frank Miller,22,67,frank.miller@example.com,1234567890,HR,60000
+S007,Gina Torres,23,81,gina.torres@example.com,9876543210,Finance,70000
+S008,Hank Pym,24,79,hank.pym@example.com,abcdefghij,IT,78000
+S009,Ivy Lee,21,84,ivy.lee@example.com,9876543210,Marketing,69000
+S010,John Doe,22,76,john.doe@example.com,9876543210,IT,71000
